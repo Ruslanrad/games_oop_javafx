@@ -9,6 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
 public class BishopBlackTest {
+
     @Test
     public void testBishopBlackPosition() {
         BishopBlack bishopBlack = new BishopBlack(Cell.A1);
